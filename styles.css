@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background: #f3f3f3;
+    padding: 0px;
+    margin: 0px;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
+
+textarea {
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+}
+
+.main-container {
+  margin:20px 0px 0px 100px;
+}
+
+.footer {
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+  background-color: #D3D3D3;
+  color: white;
+  display: flex;
+  justify-content: center;
+  /* position:absolute;
+  bottom:0;
+  left:0; */
+}
+
+.footer a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: black;
+}
